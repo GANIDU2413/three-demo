@@ -1,7 +1,6 @@
 import React from 'react';
-import {Canvas} from "react-three-fiber";
-import logo from './logo.svg';
-import './App.css';
+import { Canvas } from 'react-three-fiber';
+import './styles.css';
 
 
 function Box() {
